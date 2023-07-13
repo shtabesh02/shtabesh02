@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shir Hussain Tabesh.
-- 👀 I’m interested in Java, Python, and Data Science.
+- 👀 I’m interested in Java, Python, JavaScript, Data Science and mathemtics.
 - 🌱 I’m currently learning Data Science.
-- 💞️ I’m looking to collaborate on Java, Python and Data Science projects.
+- 💞️ I’m looking to collaborate on Java, Python, JavaScript and Data Science projects.
 - 📫 How to reach me: shirhussain1@gmail.com.
 
 <!---
