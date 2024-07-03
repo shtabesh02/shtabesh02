@@ -2,7 +2,7 @@
 
 <h3 align="center">A Software Engineer</h3>
 
-- 👨‍💻 All of my projects are available at [shir.com](shir.com)
+- 👨‍💻 All of my projects are available at [shircom](shir.com)
 
 - 📫 How to reach me **shtabesh02@gmail.com**
 
