@@ -1,10 +1,18 @@
 <h1 align="center">Hi 👋, I'm Shir Hussain Tabesh</h1>
 
-<h3 align="center">A Software Engineer</h3>
+<!-- <h3 align="center">A Software Engineer</h3> -->
+<p>
+I'm a <b>Software Engineer</b>, fortified by a strong foundation in Computer Engineering (Kabul Polytechnic University) and App Academy's Software Engineering program, I'm a passionate full-stack developer skilled in JavaScript (Express, Sequelize, React, Redux) and Python (Flask, SQLAlchemy). I have experience building applications and teaching computer fundamentals. Fluent in English, Farsi, and Turkish, with intermediate skills in Pashto and Arabic. I enjoy being involved in the entire application development process, from designing schemas to writing code. Email: shtabesh02@gmail.com
 
-- 👨‍💻 All of my projects are available at [shircom](shir.com)
-
+Skills: Full-Stack Developer, Python, JavaScript, React, Redux, Express, Flask, Sequelize, SQLAlchemy, API, CRUD, C/C++, Java.
+</p>
+<p>
+- 👨‍💻 Currently working on [Starred Notes](https://starrednotes.onrender.com/)
+</p>
+<p>
 - 📫 How to reach me **shtabesh02@gmail.com**
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 
