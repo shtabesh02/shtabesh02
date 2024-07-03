@@ -6,12 +6,12 @@ I'm a <b>Software Engineer</b>, fortified by a strong foundation in Computer Eng
 
 Skills: Full-Stack Developer, Python, JavaScript, React, Redux, Express, Flask, Sequelize, SQLAlchemy, API, CRUD, C/C++, Java.
 </p>
-<p>
-- 👨‍💻 Currently working on [Starred Notes](https://starrednotes.onrender.com/)
-</p>
-<p>
-- 📫 How to reach me **shtabesh02@gmail.com**
-</p>
+
+👨‍💻 Currently working on [Starred Notes](https://starrednotes.onrender.com/)
+
+
+📫 How to reach me **shtabesh02@gmail.com**
+
 
 
 <h3 align="left">Connect with me:</h3>
