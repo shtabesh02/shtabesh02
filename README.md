@@ -2,7 +2,7 @@
 
 <!-- <h3 align="center">A Software Engineer</h3> -->
 <p>
-I'm a <b>Software Engineer</b>, fortified by a strong foundation in Computer Engineering (Kabul Polytechnic University) and App Academy's Software Engineering program, I'm a full-stack developer skilled in JavaScript (Express, Sequelize, React, Redux) and Python (Flask, SQLAlchemy). I have experience building applications and teaching computer fundamentals. Fluent in English, Farsi, and Turkish, with intermediate skills in Pashto and Arabic. I enjoy being involved in the entire application development process, from designing schemas to writing code. Email: shtabesh02@gmail.com
+Skilled Software Engineer with a strong foundation in Computer Engineering. As a full-stack developer proficient in JavaScript and Python, have hands-on experience in building scalable web applications and teaching computer science fundamentals. I thrive in all stages of the software development life cycle, from designing database schemas to writing clean, efficient code.
 
 Skills: Full-Stack Developer, Python, JavaScript, React, Redux, Express, Flask, Sequelize, SQLAlchemy, API, CRUD, C/C++, Java.
 </p>
