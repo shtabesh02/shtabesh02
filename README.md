@@ -20,9 +20,9 @@ Skills: Full-Stack Developer, Python, JavaScript, React, Redux, Express, Flask, 
     <a href="https://twitter.com/shtabesh02" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shtabesh02" height="30" width="40" />
     </a>
-    <a href="https://linkedin.com/in/shtabesh02" target="blank">
+<!--     <a href="https://linkedin.com/in/shtabesh02" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shtabesh02" height="30" width="40" />
-    </a>
+    </a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
